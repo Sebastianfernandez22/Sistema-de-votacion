@@ -1,0 +1,25 @@
+﻿Instrucciones de Instalación para el Proyecto de Votación
+
+Este proyecto es un formulario de votación web creado utilizando PHP, MySQL y Bootstrap.
+
+Requisitos del Sistema:
+
+- Servidor web (por ejemplo, Apache)
+- PHP 7.0 o superior
+- Base de datos MySQL
+
+Pasos de Instalación:
+
+1. Copie todos los archivos de este proyecto en la carpeta del servidor web.
+2. Cree una base de datos en su servidor MySQL. Puede utilizar el nombre 'desis' o elegir otro nombre, pero asegúrese de actualizar la configuración en los archivos PHP si cambia el nombre.
+3. Importe el archivo 'database.sql' en la base de datos recién creada. Puede encontrar este archivo en la carpeta 'database'.
+4. Asegúrese de configurar las credenciales de la base de datos en los archivos PHP que interactúan con la base de datos (por ejemplo, 'procesar\_voto.php').
+5. Acceda al formulario de votación a través de su navegador web visitando la URL donde ha alojado los archivos.
+
+Versión de PHP utilizada en este proyecto: 7.0.0
+
+Versión de la base de datos: MySQL 5.7
+
+Si experimenta problemas durante la instalación o tiene alguna pregunta, no dude en ponerse en contacto al email con el desarrollador (seba.fernandez1@hotmail.com). 
+
+¡Gracias por utilizar nuestro formulario de votación!
